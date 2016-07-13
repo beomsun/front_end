@@ -1,0 +1,45 @@
+SELECTOR
+1. tag
+2. id
+3. class
+    ex) <div id=
+
+CSS 器窃规过
+
+1. inline
+    ex) <div style='color:red'></idv>
+
+2. embed ( internal )
+    ex) <!DOCTYPE html>
+        <html lang="ko">
+        <head>
+          <meta charset="UTF-8">
+          <title></title>
+
+          <!-- css -->
+          <style>
+            p { color:red }
+          </style>
+          <!--// css -->
+
+        </head>
+
+3. external
+   ex) <!DOCTYPE html>
+       <html lang="ko">
+       <head>
+         <meta charset="UTF-8">
+         <title></title>
+
+         <!-- css -->
+         <link rel="stylesheet" href="style.css"/>
+         <!--// css -->
+
+       </head>
+
+ 巩过
+  selctor {
+    property(加己) : property 蔼;
+    property(加己) : property 蔼;
+    property(加己) : property 蔼;
+    }

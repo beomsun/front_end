@@ -1,0 +1,29 @@
+p {
+  color:#ffbad9;
+}
+
+#text-align{
+  text-align:center;
+}
+
+.text-decoration{
+  text-decoration:none;
+}
+
+.font {
+  font-family:"±Ã¼­Ã¼", serif;
+  font-size:20px;
+  font-weight:bold;
+}
+
+.link-status:link,
+.link-status:visited{
+  color:#000;
+  text-decoration:none;
+}
+
+.link-status:hover{
+  color:#f00;
+  text-decoration:underline;
+  font-size: 30px;
+}
