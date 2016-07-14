@@ -43,3 +43,56 @@ CSS 포함방법
     property(속성) : property 값;
     property(속성) : property 값;
     }
+
+  **** border property(속성) 정리 ****
+
+  border
+  1. 4방향 모두 공통 적용
+  boder : 굵기 종류 색
+
+  2.각각의 방향에 공통 적용
+
+    border-top: 굵기 종류 색;
+    border-right: 굵기 종류 색;
+    border-bottom: 굵기 종류 색;
+    border-left: 굵기 종류 색;
+
+  3.각각의 방향 css 속성 적용
+
+    border-top-style,
+    border-top-width,
+    border-top-color,
+    border-right-style,
+    border-right-width,
+    border-right-color,
+
+
+**** CSS 단위 ****
+
+px : 숫자 고정값
+em : body에 적용된 기본 폰트 크기의 배수
+% : parent tag 영역의 비율로 크기 설정
+
+  ex)
+    -html
+    <div>
+      <p>단락</p>
+    </div>
+
+    -css
+
+    p{width : 50%;}
+
+    => p태그의 영역 가로 길이는 div 태그 영영그이 50%(절반)의 크기
+
+
+**** width / max-width / min-width ****
+
+    세로의 길이는 컨텐츠의 수에 따라 달라짐
+    가로의 길이는 제작자의 수치에 따라 달라짐짐
+
+**** float property ****
+
+    float:left; 왼쪽으로 띄운다
+    float:right; 오른쪽으로 띄운다
+    float:none; 안띄운다

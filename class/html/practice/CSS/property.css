@@ -25,5 +25,104 @@ p {
 .link-status:hover{
   color:#f00;
   text-decoration:underline;
-  font-size: 30px;
+  font-size:30px;
+}
+
+table {
+  border-collapse:collapse;
+  width: 300px;
+}
+
+table,th,td {
+  border:1px solid #000;
+}
+
+th, td{
+  height: 50px;
+}
+
+/* box model block 요소와 inline 요소 비교*/
+
+.box-model-block{
+  width: 300px;
+  height: 100px;
+  padding: 50px;
+  border: 5px solid;
+  margin: 100px;
+}
+
+.box-model-inline{
+  width: 300px;
+  height: 200px;
+  padding: 50px;
+  border: 5px solid;
+  margin: 200px;
+}
+
+/* display property */
+
+.display-inline{
+  display:inline;
+
+  width: 300px;
+  height: 100px;
+  padding: 50px;
+  border: 5px solid blue;
+}
+
+.display-block{
+  display: block;
+
+  width: 300px;
+  height: 100px;
+  padding: 50px;
+  border: 5px solid red;
+}
+
+.display-inline-block{
+  display:inline-block;
+
+  width: 100px;
+  height: 100px;
+  padding: 50px;
+  border: 5px solid green;
+}
+
+/* 가변 가로 길이 */
+
+.wrap{
+  width: 100%;
+  min-width: 400px;
+  max-width: 1600px;
+
+  background-color: red;
+}
+
+/* float property */
+
+.float-wrap{
+  width: 800px;
+  height: 500px;
+  border: 1px solid red;
+}
+
+.float-left{
+  float: left;
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
+
+.float-right{
+  float: left;
+  width: 200px;
+  height: 200px;
+  background-color: skyblue;
+}
+
+.bg-color-gray{
+  width: 400px;
+  height: 200px;
+  background-color: gray;
+  clear: both;
 }
