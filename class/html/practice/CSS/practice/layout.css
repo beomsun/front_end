@@ -17,6 +17,10 @@
   margin-bottom: 20px;
 }
 
+.container{
+  height: 800px;
+}
+
 .lnb{
   width: 250px;
   height: 400px;
