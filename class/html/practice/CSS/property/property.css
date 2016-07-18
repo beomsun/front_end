@@ -16,6 +16,7 @@ p {
   font-weight:bold;
 }
 
+/* 링크 태그 상태 설정*/
 .link-status:link,
 .link-status:visited{
   color:#000;
