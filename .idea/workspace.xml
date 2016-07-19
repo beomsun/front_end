@@ -4,19 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/class/html/element/element.html" line="33" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26b40c20-2e46-4a3f-8cd1-1ee7c7e18f75" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layouyt7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="26b40c20-2e46-4a3f-8cd1-1ee7c7e18f75" name="Default" comment="" />
     <ignored path="front_end.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -399,8 +387,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="0" width="1924" height="1040" extended-state="1" />
-    <editor active="true" />
+    <frame x="-4" y="0" width="1924" height="1040" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17243187" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
