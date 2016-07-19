@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26b40c20-2e46-4a3f-8cd1-1ee7c7e18f75" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/property/clear.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/property/clear.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout.css" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/html/practice/CSS/property/property.css" afterPath="$PROJECT_DIR$/class/html/practice/CSS/property/property.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layout8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/CSS/practice/layouyt7.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="front_end.iws" />
@@ -33,14 +35,14 @@
     <favorites_list name="front_end" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.433687">
+    <splitter split-orientation="horizontal" split-proportion="0.37491524">
       <split-first>
         <leaf>
-          <file leaf-file-name="layout3.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout3.html">
+          <file leaf-file-name="layout8.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout8.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.37844038">
-                  <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+                <state vertical-scroll-proportion="0.70642203">
+                  <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
                   <folding />
                 </state>
               </provider>
@@ -50,41 +52,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="layout.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout.css">
+          <file leaf-file-name="layout8.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout8.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="layout2.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout2.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-4.2580647">
-                  <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-4.2580647">
-                  <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="layout3.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout3.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.19490586">
-                  <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+                <state vertical-scroll-proportion="0.61018825">
+                  <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -131,6 +103,16 @@
         <option value="$PROJECT_DIR$/class/html/practice/CSS/practice/layout2.css" />
         <option value="$PROJECT_DIR$/class/html/practice/CSS/practice/layout3.html" />
         <option value="$PROJECT_DIR$/class/html/practice/CSS/practice/layout3.css" />
+        <option value="$PROJECT_DIR$/class/html/practice/CSS/practice/layout4.html" />
+        <option value="$PROJECT_DIR$/class/html/practice/CSS/practice/layout4.css" />
+        <option value="$PROJECT_DIR$/class/html/practice/CSS/practice/layout5.html" />
+        <option value="$PROJECT_DIR$/class/html/practice/CSS/practice/layout5.css" />
+        <option value="$PROJECT_DIR$/class/html/practice/CSS/practice/layout6.html" />
+        <option value="$PROJECT_DIR$/class/html/practice/CSS/practice/layout7.css" />
+        <option value="$PROJECT_DIR$/class/html/practice/CSS/practice/layouyt7.html" />
+        <option value="$PROJECT_DIR$/class/html/practice/CSS/practice/layout6.css" />
+        <option value="$PROJECT_DIR$/class/html/practice/CSS/practice/layout8.html" />
+        <option value="$PROJECT_DIR$/class/html/practice/CSS/practice/layout8.css" />
       </list>
     </option>
   </component>
@@ -142,9 +124,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="y" value="6" />
-    <option name="width" value="1820" />
+    <option name="x" value="-4" />
+    <option name="width" value="1924" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -170,6 +151,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -312,8 +295,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -333,20 +314,20 @@
       <recent name="C:\Users\user\Desktop\front_end\class\html" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.layout3.html">
-    <configuration default="false" name="property.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front_end/class/html/practice/CSS/property/property.html">
+  <component name="RunManager" selected="JavaScript Debug.layout8.html">
+    <configuration default="false" name="layout4.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front_end/class/html/practice/CSS/practice/layout4.html">
       <method />
     </configuration>
-    <configuration default="false" name="layout.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front_end/class/html/practice/CSS/practice/layout.html">
+    <configuration default="false" name="layout5.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front_end/class/html/practice/CSS/practice/layout5.html">
       <method />
     </configuration>
-    <configuration default="false" name="clear.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front_end/class/html/practice/CSS/property/clear.html">
+    <configuration default="false" name="layout6.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front_end/class/html/practice/CSS/practice/layout6.html">
       <method />
     </configuration>
-    <configuration default="false" name="layout2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front_end/class/html/practice/CSS/practice/layout2.html">
+    <configuration default="false" name="layouyt7.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front_end/class/html/practice/CSS/practice/layouyt7.html">
       <method />
     </configuration>
-    <configuration default="false" name="layout3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front_end/class/html/practice/CSS/practice/layout3.html">
+    <configuration default="false" name="layout8.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front_end/class/html/practice/CSS/practice/layout8.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -388,19 +369,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.property.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.layout.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.clear.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.layout2.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.layout3.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.layout4.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.layout5.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.layout6.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.layouyt7.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.layout8.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.layout3.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.layout2.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.layout.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.clear.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.property.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.layout8.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.layouyt7.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.layout6.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.layout5.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.layout4.html" />
       </list>
     </recent_temporary>
   </component>
@@ -418,10 +399,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="6" width="1820" height="1040" extended-state="0" />
+    <frame x="-4" y="0" width="1924" height="1040" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12971175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17243187" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908705" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -703,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-14.645162">
           <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,7 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,15 +698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.2580647">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -735,21 +705,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="52" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.2580647">
+        <state vertical-scroll-proportion="0.15137614">
           <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15137614">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.61018825">
           <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
           <folding />
         </state>
@@ -757,16 +734,96 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37844038">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.3027523">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout3.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19490586">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.048726466">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.548387">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5298165">
+          <caret line="21" column="6" selection-start-line="5" selection-start-column="2" selection-end-line="21" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95127356">
+          <caret line="66" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layouyt7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.741936">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout6.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout7.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17660551">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70642203">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/html/practice/CSS/practice/layout8.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61018825">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding />
         </state>
       </provider>

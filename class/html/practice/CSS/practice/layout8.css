@@ -1,0 +1,48 @@
+.wrap{
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.header{
+  height: 50px;
+  background: lightpink;
+  margin-bottom: 20px;
+}
+
+.contentsA{
+  width: 900px;
+  height: 900px;
+  float: left;
+}
+
+.A1 ,.A2 ,.A3 ,.A4 ,.A5 ,.A6 ,.A7 ,.A8 ,.A9
+{
+  width: 290px;
+  height: 290px;
+  background: lavender;
+  margin-right: 10px;
+  float: left;
+  margin-bottom: 10px;
+}
+
+.contentsB{
+  width: 100px;
+  height: 900px;
+  float: right;
+}
+
+.B1 ,.B2 ,.B3 ,.B4
+{
+  width: 100px;
+  height: 215px;
+  background: lavenderblush;
+  float: right;
+  margin-bottom: 10px;
+  display: ;
+}
+
+.footer{
+  height: 50px;
+  background: lightpink;
+  clear: both;
+}

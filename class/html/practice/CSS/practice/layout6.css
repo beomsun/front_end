@@ -1,0 +1,64 @@
+.wrap{
+  width: 1000px;
+  margin: 0 auto;
+  text-indent: 10px;
+  font-size: 20px;
+  color: #333;
+}
+
+body{
+  background: #333;
+}
+
+.header{
+  height: 120px;
+  background: lightcyan;
+  margin-bottom: 10px;
+}
+
+.contents1{
+  height: 750px;
+  float: left;
+}
+
+.section1{
+  width: 500px;
+  height: 750px;
+  background: lavender;
+  float: left;
+}
+
+.contents2{
+  height: 750px;
+  width: 490px;
+  float: left;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+.Box1{
+  width: 490px;
+  height: 250px;
+  background: lavenderblush;
+  float: left;
+}
+
+.Box2{
+  width: 490px;
+  height: 250px;
+  background: lemonchiffon;
+  float: left;
+}
+
+.Box3{
+  width: 490px;
+  height: 250px;
+  background: lightpink;
+  float: left;
+}
+
+.footer {
+  height: 120px;
+  background: lightcyan;
+  clear: both;
+}
