@@ -1,0 +1,12 @@
+.header{
+  position: relative;
+  height: 135px;
+  border-top: 3px solid #ff7c98;
+}
+
+.logo{
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  margin-left: -46px;
+}

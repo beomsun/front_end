@@ -1,0 +1,59 @@
+.wrap{
+  width: 980px;
+  margin: 0 auto;
+  text-indent: 10px;
+  font-size: 30px;
+}
+
+body{
+  background: #333;
+}
+
+.header{
+  height: 150px;
+  background: ivory;
+}
+
+.container{
+  height: 700px;
+  display: block;
+}
+
+.contents1{
+  width: 315px;
+  height: 700px;
+  float: left;
+  background: olive;
+}
+
+.contents2{
+  width: 315px;
+  height: 700px;
+  float: left;
+  background: yellowgreen;
+}
+
+.contents3{
+  width: 350px;
+  height: 700px;
+  float: right;
+}
+
+.box1{
+  width: 350px;
+  height: 350px;
+  background: orange;
+  float: left;
+}
+
+.box2{
+  width: 350px;
+  height: 350px;
+  background: orangered;
+  float: left;
+}
+
+.footer{
+  height: 100px;
+  background: cornsilk;
+}
