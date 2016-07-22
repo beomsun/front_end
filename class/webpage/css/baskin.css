@@ -56,60 +56,153 @@
 }
 
 .nav{
+  position: relative;
   height: 47px;
   border-top:1px solid #e2d9d6;
-  border-bottom: 2px solid #3f291a;
+  border-bottom: 1px solid #3f291a;
 }
 
 .nav-member{
   float: left;
+  margin-top: 19px;
 }
 
 .nav-member-item{
   float: left;
 }
 
-/*임시안보임*/
-.gnb-depth2{
-  display: none;
+.nav-member-link{
+  display: block;
+  text-indent: -99999em;
+  height: 8px;
+  background:url("../images/gnb_menu.png") no-repeat;
+}
+
+.nav-member-link.login{
+  width: 35px;
+  background-position: 0 0;
+  margin-right: 46px;
+}
+
+.nav-member-link.join{
+  width: 27px;
+  background-position: -97px 0;
+}
+
+.nav-member-link.logout{
+  width: 47px;
+  background-position: 0 -46px;
+  margin-right: 46px;
+}
+
+.nav-member-link.mypage{
+  width: 50px;
+  background-position: -42px 0;
 }
 
 .gnb{
   float: right;
+  margin-top: 17px;
 }
 
 .gnb-depth1-item{
+  text-align: center;
   float: left;
+  margin-left: 79px;
+  position: relative;
 }
 
+.gnb-depth1-item.flavor{
+  width: 355px;
+}
+
+.gnb-depth1-item.menu{
+  width: 112px;
+}
+
+.gnb-depth1-item.event{
+  width: 86px;}
+
+.gnb-depth1-item.store{
+  width: 56px;
+}
+
+.gnb-depth1-item.about{
+  width: 86px;
+}
+
+
+
 .gnb-depth1-link {
-  display: block;
+  display: inline-block;
   text-indent: -99999em;
   height: 12px;
   background:url("../images/gnb_menu.png") no-repeat;
 }
 
-.flavor{
+.gnb-depth1-link.flavor{
   width: 165px;
   background-position: -133px 0 ;
 }
 
-.menu{
+.gnb-depth1-link.menu{
   width: 42px;
   background-position: -416px 0;
 }
 
-.event{
+.gnb-depth1-link.event{
   width: 44px;
   background-position: -576px 0;
 }
 
-.store{
+.gnb-depth1-link.store{
   width: 42px;
   background-position: -737px 0;
 }
 
-.about{
+.gnb-depth1-link.about{
   width: 50px;
   background-position: -896px 0;
+}
+
+.gnb-depth2{
+  display: none;
+  z-index: 10;
+  position: absolute;
+  margin-top: 60px;
+}
+
+.gnb-depth2.img{
+  margin-top: 20px;
+}
+
+.gnb-depth2-item{
+  margin-bottom: 20px;
+}
+
+.gnb-depth2-link{
+  color: #968982;
+  display: block;
+  font-size: 14px;
+}
+
+.gnb-bg{
+  display: none;
+  background: #fff;
+  width: 100%;
+  height: 274px;
+  position: absolute;
+  top: 48px;
+  left: 0;
+  border-bottom: 1px solid #3f291a;
+}
+
+.btn-search{
+  display:block;
+  width: 54px;
+  height: 54px;
+  background: url(../images/icon_search.png) no-repeat;
+  text-indent: -99999px;
+  border: 0px;
+  cursor: pointer;
 }
