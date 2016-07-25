@@ -55,11 +55,16 @@
   top: 39px;
 }
 
+.nav-wrap{
+  position: relative;
+}
+
 .nav{
   position: relative;
   height: 47px;
   border-top:1px solid #e2d9d6;
   border-bottom: 1px solid #3f291a;
+  z-index: 10;
 }
 
 .nav-member{
@@ -102,7 +107,6 @@
 
 .gnb{
   float: right;
-  margin-top: 17px;
 }
 
 .gnb-depth1-item{
@@ -131,49 +135,48 @@
   width: 86px;
 }
 
-
-
 .gnb-depth1-link {
   display: inline-block;
   text-indent: -99999em;
   height: 12px;
   background:url("../images/gnb_menu.png") no-repeat;
+  padding: 17px 0 18px ;
 }
 
 .gnb-depth1-link.flavor{
   width: 165px;
-  background-position: -133px 0 ;
+  background-position: -133px 17px ;
 }
 
 .gnb-depth1-link.menu{
   width: 42px;
-  background-position: -416px 0;
+  background-position: -416px 17px;
 }
 
 .gnb-depth1-link.event{
   width: 44px;
-  background-position: -576px 0;
+  background-position: -576px 17px;
 }
 
 .gnb-depth1-link.store{
   width: 42px;
-  background-position: -737px 0;
+  background-position: -737px 17px;
 }
 
 .gnb-depth1-link.about{
   width: 50px;
-  background-position: -896px 0;
+  background-position: -896px 17px;
 }
 
 .gnb-depth2{
   display: none;
   z-index: 10;
   position: absolute;
-  margin-top: 60px;
+  margin-top: 40px;
 }
 
 .gnb-depth2.img{
-  margin-top: 20px;
+  margin-top: 0;
 }
 
 .gnb-depth2-item{
@@ -187,10 +190,9 @@
 }
 
 .gnb-bg{
-  display: none;
   background: #fff;
   width: 100%;
-  height: 274px;
+  /*height: 274px;*/
   position: absolute;
   top: 48px;
   left: 0;
@@ -201,8 +203,23 @@
   display:block;
   width: 54px;
   height: 54px;
-  background: url(../images/icon_search.png) no-repeat;
+  background:url(../images/icon_search.png) no-repeat;
   text-indent: -99999px;
   border: 0px;
   cursor: pointer;
+}
+
+.banner-top{
+  margin-bottom: 3px;
+  display: block;
+  height: 150px;
+  text-indent: -99999em;
+  background:#54bdec url("../images/img_flaovr_month_top.jpg") no-repeat;
+}
+
+.banner-bottom{
+  display: block;
+  height: 697px;
+  text-indent: -99999em;
+  background:#f0ed1d url("../images/img_main_banner_2.jpg") no-repeat ;
 }
