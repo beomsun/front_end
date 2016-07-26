@@ -4,10 +4,6 @@
   position: relative;
 }
 
-.img{
-  background: url("../images/bg_header.gif");
-}
-
 .header{
   position: relative;
   height: 135px;
