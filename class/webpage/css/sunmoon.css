@@ -1,0 +1,48 @@
+.header{
+  width: 1903px;
+  height: 117px;
+}
+
+.inner{
+  width: 1094px;
+  margin: 0 auto;
+}
+
+.util{
+  width: 100%;
+  height: 33px;
+  background: #01aeb2;
+}
+
+.util-list{
+  line-height: 10px;
+  text-align: center;
+  position: absolute;
+}
+
+.util-item-lg {
+  float: left;
+
+}
+
+.util-item-mb{
+  float: right;
+
+}
+
+.item{
+  color: #fff;
+}
+
+
+
+
+
+
+.left-float{
+  float: left;
+}
+
+.right-float{
+  float: right;
+}
