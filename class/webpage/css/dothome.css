@@ -66,19 +66,44 @@
 .gnb-depth2{
   background: #ffffff;
   width: 198px;
-  border: 1px solid #aaa ;
+  border: 1px solid #ccc ;
   position: absolute;
+  padding: 5px 0;
+  display: none;
 }
 
 .gnb-depth2-link{
+  color:#999;
   font-size: 14px;
   display: block;
   padding: 3px 20px;
   line-height: 1.6;
 }
 
+.gnb-depth2-link:hover{
+  color: #000;
+  font-weight: bold;
+}
 
+.join-member{
+  width: 470px;
+  padding: 14px;
+  border: 1px solid#e3e3e3;
+  background: #f5f5f5;
+  margin: 0 auto;
+  border-radius: 6px;
+}
 
+.section-heading{
+  display: none;
+}
+
+.form-wrap{
+  border-radius: 6px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  background: #fff;
+}
 
 
 
