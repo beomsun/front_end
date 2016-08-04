@@ -1,6 +1,113 @@
 .header{
-  position:relative;
+  position:absolute;
+  padding-top: 33px;
+  border-bottom: 1px solid #bbbbbb;
+  margin-bottom: 1px;
+  z-index: 900;
+  width: 100%;
+  background: #fff;
 }
+
+.nav-wrap{
+  /*height: 550px;*/
+  height: 82px;
+  overflow: hidden;
+}
+
+.wrap{
+  overflow: auto;
+}
+/*
+  child 의 top margin 이 parent 의
+   top margin 에 더해질때
+   더해 지지 않고 parent 내부에서
+   margin 이 적용되게 하려면
+   parent 에 overflow 속성을 설정해준다
+*/
+
+
+.logo{
+  position: absolute;
+  top: 22px;
+  left: 0;
+}
+
+.gnb{
+  float: right;
+}
+
+.gnb-depth1-item{
+  float: left;
+}
+
+.gnb-depth1-link{
+  font-weight: bold;
+  display: block;
+  font-size: 17px;
+  padding: 32px 0 29px;
+}
+
+.gnb-depth1-link:hover,
+.gnb-depth1-link.current{
+  color: #00878d;
+}
+
+.gnb-depth1-item{
+  float: left;
+  margin-right: 60px;
+}
+
+.gnb-depth1-item:last-child{
+  margin-right: 0;
+}
+
+.gnb-depth1-item:nth-child(2) .gnb-depth2,
+.gnb-depth1-item:nth-child(3) .gnb-depth2,
+.gnb-depth1-item:nth-child(4) .gnb-depth2,
+.gnb-depth1-item:nth-child(5) .gnb-depth2,
+.gnb-depth1-item:nth-child(6) .gnb-depth2
+{
+  display: none;
+}
+/* 임시 */
+
+
+.gnb-depth2{
+  position: absolute;
+  top: 135px;
+  left: 30px;
+}
+
+.gnb-depth2:after{
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.gnb-depth2-item{
+  float:left;
+  margin-right: 100px;
+}
+
+.gnb-depth2-item:last-child{
+  margin-right: 0;
+}
+
+.gnb-depth2-link{
+  font-size: 15px;
+  font-weight: bold;
+  padding: 12px 0 8px;
+}
+
+.gnb-depth3-item{
+  margin:16px 0;
+}
+
+.gnb-depth3-link{
+  color: #6b6b6b;
+}
+
+
 
 .util{
   width:100%;
@@ -136,6 +243,7 @@
   height:158px;
   background:url(../images/sub_visual01.jpg) no-repeat 50% 0;
   position:relative;
+  margin-top: 117px;
 }
 
 .top-visual h2{
@@ -410,4 +518,5 @@
 .inner{
   width:1094px;
   margin:0 auto;
+  position: relative;
 }

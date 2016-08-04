@@ -1,0 +1,29 @@
+.inner{
+  width: 1060px;
+  margin: 0 auto;
+}
+
+.header{
+  height: 90px;
+}
+
+.logo{
+  float: left;
+}
+
+.ir-01{
+  width: 94px;
+  height: 16px;
+  text-indent: -99999em;
+  background: url("image/");
+}
+
+.gnb-depth1-item{
+  float: left;
+}
+
+.gnb-depth2{
+  display: none;
+}
+
+

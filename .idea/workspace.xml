@@ -23,14 +23,14 @@
     <favorites_list name="front_end" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5470364">
+    <splitter split-orientation="horizontal" split-proportion="0.5714286">
       <split-first>
         <leaf>
-          <file leaf-file-name="sunmoon.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/class/webpage/sunmoon.html">
+          <file leaf-file-name="mobis.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/mobis/mobis.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.24311927">
-                  <caret line="258" column="42" selection-start-line="258" selection-start-column="42" selection-end-line="258" selection-end-column="42" />
+                <state vertical-scroll-proportion="0.37844038">
+                  <caret line="30" column="56" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
                   <folding />
                 </state>
               </provider>
@@ -39,8 +39,8 @@
           <file leaf-file-name="baskin.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/class/webpage/baskin.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-31.935484">
-                  <caret line="96" column="38" selection-start-line="96" selection-start-column="38" selection-end-line="96" selection-end-column="38" />
+                <state vertical-scroll-proportion="-9.225806">
+                  <caret line="75" column="20" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="20" />
                   <folding />
                 </state>
               </provider>
@@ -50,21 +50,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="sunmoon.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/class/webpage/css/sunmoon.css">
+          <file leaf-file-name="mobis.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/mobis/mobis.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5127353">
-                  <caret line="363" column="0" selection-start-line="363" selection-start-column="0" selection-end-line="363" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="baskin.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/class/webpage/css/baskin.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="116" selection-end-column="1" />
+                <state vertical-scroll-proportion="0.41417497">
+                  <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
                   <folding />
                 </state>
               </provider>
@@ -133,8 +123,12 @@
         <option value="$PROJECT_DIR$/class/webpage/dothome.html" />
         <option value="$PROJECT_DIR$/class/webpage/css/dothome.css" />
         <option value="$PROJECT_DIR$/class/webpage/js/new.html" />
-        <option value="$PROJECT_DIR$/class/webpage/sunmoon.html" />
         <option value="$PROJECT_DIR$/class/webpage/css/sunmoon.css" />
+        <option value="$PROJECT_DIR$/class/webpage/sunmoon.html" />
+        <option value="$PROJECT_DIR$/class/webpage/mobis.css" />
+        <option value="$PROJECT_DIR$/class/webpage/mobis.html" />
+        <option value="$PROJECT_DIR$/mobis/mobis.html" />
+        <option value="$PROJECT_DIR$/mobis/mobis.css" />
       </list>
     </option>
   </component>
@@ -146,9 +140,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="75" />
+    <option name="x" value="370" />
     <option name="y" value="3" />
-    <option name="width" value="1664" />
+    <option name="width" value="1498" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -190,8 +184,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -207,6 +201,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="front_end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front_end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front_end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -281,20 +289,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\321-07\Desktop\front_end\mobis" />
       <recent name="C:\Users\321-07\Desktop\front_end\class" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\321-07\Desktop\front_end\mobis" />
       <recent name="C:\Users\321-07\Desktop\font_end\class\webpage" />
       <recent name="C:\Users\321-07\Desktop\font_end\class\webpage\css" />
       <recent name="C:\Users\321-07\Desktop\font_end\class\html\practice" />
       <recent name="C:\Users\321-07\Desktop\font_end\class\html\practice\CSS" />
-      <recent name="C:\Users\321-07\Desktop\front_end\class" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.sunmoon.html">
-    <configuration default="false" name="layout8.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front_end/class/html/practice/CSS/practice/layout8.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.mobis.html">
     <configuration default="false" name="p3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front_end/class/html/practice/p3.html">
       <method />
     </configuration>
@@ -305,6 +311,9 @@
       <method />
     </configuration>
     <configuration default="false" name="sunmoon.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front_end/class/webpage/sunmoon.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="mobis.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front_end/mobis/mobis.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -346,19 +355,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.layout8.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.p3.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.baskin.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.dothome.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.sunmoon.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.p3.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.baskin.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.dothome.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.sunmoon.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.mobis.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.sunmoon.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.dothome.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.baskin.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.p3.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.layout8.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.mobis.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.sunmoon.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.dothome.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.baskin.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.p3.html" />
       </list>
     </recent_temporary>
   </component>
@@ -376,10 +385,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="3" width="1664" height="1040" extended-state="0" />
+    <frame x="370" y="3" width="1498" height="1040" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.021237863" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13697706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32832617" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -416,34 +425,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/class/webpage/dothome.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="105" column="83" selection-start-line="104" selection-start-column="8" selection-end-line="105" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/html/practice/p1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/webpage/dothome.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/html/practice/p1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class/webpage/dothome.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -746,14 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class/webpage/dothome.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48050457">
-          <caret line="214" column="66" selection-start-line="214" selection-start-column="66" selection-end-line="214" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class/webpage/css/dothome.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -770,26 +743,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class/webpage/baskin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-31.935484">
-          <caret line="96" column="38" selection-start-line="96" selection-start-column="38" selection-end-line="96" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class/webpage/sunmoon.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24311927">
-          <caret line="258" column="42" selection-start-line="258" selection-start-column="42" selection-end-line="258" selection-end-column="42" />
-          <folding />
+        <state vertical-scroll-proportion="0.025229357">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="n#h2#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#1;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#address#0;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class/webpage/css/sunmoon.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5127353">
-          <caret line="363" column="0" selection-start-line="363" selection-start-column="0" selection-end-line="363" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.22037652">
+          <caret line="378" column="21" selection-start-line="378" selection-start-column="21" selection-end-line="378" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobis/image/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobis/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/webpage/dothome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1261468">
+          <caret line="110" column="0" selection-start-line="109" selection-start-column="6" selection-end-line="110" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/webpage/baskin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.225806">
+          <caret line="75" column="20" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobis/mobis.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41417497">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobis/mobis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37844038">
+          <caret line="30" column="56" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
           <folding />
         </state>
       </provider>
