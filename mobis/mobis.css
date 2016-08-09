@@ -14,8 +14,39 @@
 .ir-01{
   width: 94px;
   height: 16px;
+  text-indent: -9999em;
+  background: url("image/menu1.png") no-repeat 35px 38px;
+}
+
+.ir-02{
+  width: 94px;
+  height: 16px;
+  text-indent: -9999em;
+  background: url("image/menu2.png") no-repeat 35px 38px;
+}
+
+.ir-03{
+  width: 57px;
+  height: 16px;
+  text-indent: -9999em;
+  background: url("image/menu3.png") no-repeat 35px 38px;
+}
+
+.ir-04{
+  width: 97px;
+  height: 16px;
   text-indent: -99999em;
-  background: url("image/");
+  background: url("image/menu4.png") no-repeat 35px 38px;
+
+}
+
+.gnb-depth1{
+  float: right;
+}
+
+.gnb-depth1-link{
+  padding: 38px 35px 32px;
+  display: block;
 }
 
 .gnb-depth1-item{
@@ -26,4 +57,130 @@
   display: none;
 }
 
+.image{
+  width: 1060px;
+  height: 420px;
+  text-indent: -99999em;
+  background: url("image/visual0.jpg") no-repeat 50% 37%;
+  background-size: 1060px 706px;
+  position: relative;
+}
 
+.image_box{
+  position: absolute;
+  top: 105px;
+  left: 250px;
+  width: 560px;
+  height: 208px;
+  background: url("image/vis_txtbg.png") no-repeat;
+}
+
+.image_box_text{
+  width: 411px;
+  height: 44px;
+  background: url("image/v0_txt1.png") no-repeat;
+  position: absolute;
+  top: 50px;
+  left: 72px;
+}
+
+.image_text{
+  width: 560px;
+  height: 35px;
+  background: url("image/v0_txt2.png") no-repeat;
+  position: absolute;
+  top: 125px;
+  left: 0;
+}
+
+.m_text{
+  margin: 20px 0;
+  height: 40px;
+  position: relative;
+}
+
+.m_link_r{
+  float: right;
+}
+
+.ir_umb{
+  position: Absolute;
+  top: 12px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.m_link_l{
+  float: left;
+}
+
+.content01_wrap{
+  height: 560px;
+  width: 310px;
+  float: left;
+}
+
+.content01{
+  float: left;
+  padding: 35px 36px;
+  width: 238px;
+  height: 365px;
+  background: #faf05e;
+  position: relative;
+}
+
+.content01_link{
+  width: 238px;
+  height: 280px;
+}
+
+.content01_image{
+  margin-top: 5px;
+  margin-left: 34px;
+}
+
+.content01_shape{
+  position: absolute;
+  top: 55px;
+  left: 0;
+}
+
+.content01_title{
+  font-size: 18px;
+  margin-top: 22px;
+  color: #333;
+  font-weight: bold;
+}
+
+.content01_t_text{
+  margin-top: 12px;
+  font-size: 13px;
+  color: #666;
+  line-height: 16px;
+}
+
+.content01_button {
+  position: absolute;
+  bottom: 20px;
+  width: 238px;
+  text-align: center;
+}
+
+.content01_hd_link{
+  margin-top: 45px;
+  width: 310px;
+  height: 69px;
+  float: left;
+}
+
+
+
+
+
+
+.clearfix{
+  content: "";
+  display: block;
+  clear: both;
+}
