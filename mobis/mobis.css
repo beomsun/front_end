@@ -115,6 +115,11 @@
   float: left;
 }
 
+.content{
+  width: 1060px;
+  height: 600px;
+}
+
 .content01_wrap{
   height: 560px;
   width: 310px;
@@ -174,10 +179,178 @@
   float: left;
 }
 
+.content02_wrap{
+  position: relative;
+  float: left;
+  margin-left: 50px;
+  width: 455px;
+  height: 300px;
+}
 
+.content02_img1 {
+  float: left;
+}
 
+.content02_img1>span{
+  display: block;
+  font-size: 16px;
+  width: 221px;
+  height: 21px;
+  margin: 10px 0 0 0;
+}
 
+.content02_img2 {
+  float: right;
+}
 
+.content02_img2>span{
+  display: block;
+  font-size: 16px;
+  width: 221px;
+  height: 21px;
+  margin: 10px 0 0 0;
+}
+
+.content02_side{
+  float: right;
+}
+
+.content02_more{
+  position: absolute;
+  bottom: 15px;
+  right: 0;
+}
+
+.content03{
+  width: 700px;
+  height: 162px;
+}
+
+.content03_wrap{
+  width: 700px;
+  height: 243px;
+  margin-left: 50px;
+  float: left;
+  margin-top: 15px;
+  border-top: 2px solid #333;
+}
+
+.content03_img{
+  margin: 23px 0;
+}
+
+.content03_01{
+  width: 330px;
+  height: 34px;
+  float: left;
+}
+
+.content03_02{
+  width: 330px;
+  height: 34px;
+  float: right;
+}
+
+.content03_tit{
+  font-size: 18px;
+  display: block;
+  margin: 10px 0;
+}
+
+.content03_txt{
+  margin: 14px 0 0;
+  color: #777;
+  font-size: 13px;
+  line-height: 22px;
+  width: 330px;
+  height: 90px;
+  display: block;
+}
+
+.content03_st{
+  color: #777;
+  margin: 5px 0 0;
+  font-size: 14px;
+}
+
+.content03_lk{
+  width: 330px;
+  height: 161px;
+  display: block;
+}
+
+.mid_con{
+  width: 100%;
+  margin: 10px auto;
+  padding: 38px 0 0;
+  height: 346px;
+  overflow: hidden;
+  background: #f7f7f7;
+  position: relative;
+}
+
+.mid_tit{
+  position: absolute;
+  top: 35px;
+  left: 900px;
+}
+
+.icon_wrap{
+  margin-top: 40px;
+}
+
+.icon1>a{
+  display: block;
+  width: 190px;
+  height: 255px;
+  text-indent: -99999em;
+  background:url("image/mCsrIcon1.png");
+  float: left;
+  margin-left: 60px;
+}
+
+.icon2>a{
+  width: 190px;
+  height: 255px;
+  text-indent: -99999em;
+  background:url("image/mCsrIcon2.png");
+  float: left;
+  margin-left: 60px;
+}
+
+.icon3>a{
+  width: 190px;
+  height: 255px;
+  text-indent: -99999em;
+  background:url("image/mCsrIcon3.png");
+  float: left;
+  margin-left: 60px;
+}
+
+.icon4>a{
+  width: 190px;
+  height: 255px;
+  text-indent: -99999em;
+  background:url("image/mCsrIcon4.png");
+  float: left;
+  margin-left: 60px;
+}
+
+.icon1>a:hover{
+  background:url("image/mCsrIcon1_on.png") ;
+}
+
+.icon2>a:hover{
+  background:url("image/mCsrIcon2_on.png") ;
+}
+
+.icon3>a:hover{
+  background:url("image/mCsrIcon3_on.png") ;
+}
+
+.icon4>a:hover{
+  background:url("image/mCsrIcon4_on.png") ;
+}
 
 .clearfix{
   content: "";
